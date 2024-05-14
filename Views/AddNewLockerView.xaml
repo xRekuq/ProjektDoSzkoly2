@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SzafkiSzkolne.Views.AddNewLockerView">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        
+        <Label Text="Dodaj nową szafkę" Style="{StaticResource BigLabel}" 
+               Grid.ColumnSpan="2" Grid.Row="0"/>
+
+        <StackLayout Grid.Column="0" Grid.Row="1">
+            <Label Text="Numer"/>
+            <Entry Text="{Binding LockerNr, Mode=TwoWay}"/>
+        </StackLayout>
+
+        <StackLayout Grid.Column="1" Grid.Row="1">
+            <Label Text="Właściciel"/>
+            <Entry Text="{Binding Owner, Mode=TwoWay}"/>
+        </StackLayout>
+
+        <StackLayout Grid.Column="0" Grid.Row="2">
+            <Label Text="Piętro"/>
+            <Entry Text="{Binding Floor, Mode=TwoWay}"/>
+        </StackLayout>
+
+        <Button Text="Cofnij" Command="{Binding NavigateBackCommand}"
+            Grid.Column="0" Grid.Row="5"/>
+        <Button Text="Dodaj" Command="{Binding AddLockerCommand}"
+            Grid.Column="1" Grid.Row="5"/>
+    </Grid>
+</ContentPage>

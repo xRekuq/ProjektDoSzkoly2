@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:cv="clr-namespace:Camera.MAUI;assembly=Camera.MAUI"
+             x:Class="SzafkiSzkolne.Views.ManageLocker">
+
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="240"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="140"/>
+                <RowDefinition Height="140"/>
+                <RowDefinition Height="140"/>
+            </Grid.RowDefinitions>
+
+            <Label Text="Zdjecie" 
+               Grid.Column="0" Grid.Row="0" VerticalTextAlignment="Center" HorizontalTextAlignment="Center"/>
+
+            <Label Text="Szafka wolna!"
+               Grid.Column="1" Grid.Row="0"
+               Style="{StaticResource BigLabel}"
+               TextColor="LightGreen"/>
+
+            <Button Text="Generuj kod QR"
+                Grid.Column="0" Grid.Row="1"
+                Style="{StaticResource SmallButton}"
+                Command="{Binding GenerateQrCodeCommand}"/>
+
+            <Button Text="Drukuj kod QR"
+                Grid.Column="0" Grid.Row="2"
+                Style="{StaticResource SmallButton}"/>
+
+        <cv:BarcodeImage BarcodeMargin="5" WidthRequest="280" HeightRequest="280" BarcodeHeight="280" BarcodeWidth="280"
+                BarcodeForeground="White" BarcodeBackground="#1F1F1F"
+                BarcodeFormat="QR_CODE" Barcode="{Binding QrMessage}"
+                Grid.Column="1" Grid.Row="1" Grid.RowSpan="2"/>
+
+    </Grid>
+</ContentPage>

@@ -1,0 +1,65 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SzafkiSzkolne
+build_property.ProjectDir = C:\Users\Dawid\Desktop\SzafkiSzkolne\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/Users/Dawid/Desktop/SzafkiSzkolne/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = SzafkiSzkolne.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/Dawid/Desktop/SzafkiSzkolne/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = SzafkiSzkolne.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/Dawid/Desktop/SzafkiSzkolne/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = SzafkiSzkolne.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/Dawid/Desktop/SzafkiSzkolne/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = SzafkiSzkolne.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/Dawid/Desktop/SzafkiSzkolne/Views/AddNewLockerView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = SzafkiSzkolne.Views.AddNewLockerView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AddNewLockerView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AddNewLockerView.xaml
+
+[C:/Users/Dawid/Desktop/SzafkiSzkolne/Views/ManageAllLockers.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = SzafkiSzkolne.Views.ManageAllLockers.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ManageAllLockers.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ManageAllLockers.xaml
+
+[C:/Users/Dawid/Desktop/SzafkiSzkolne/Views/ManageLocker.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = SzafkiSzkolne.Views.ManageLocker.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ManageLocker.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ManageLocker.xaml
+
+[C:/Users/Dawid/Desktop/SzafkiSzkolne/Views/TestView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = SzafkiSzkolne.Views.TestView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\TestView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\TestView.xaml

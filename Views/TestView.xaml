@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:cv="clr-namespace:Camera.MAUI;assembly=Camera.MAUI"
+             x:Class="SzafkiSzkolne.Views.TestView"
+             Title="TestView">
+    
+    <ScrollView>
+        <VerticalStackLayout 
+            Spacing="25"
+            Padding="30,0"
+            VerticalOptions="Center">
+
+            <Label Text="tu ma byc kod qr"/>
+            <cv:BarcodeImage BarcodeMargin="5" BarcodeWidth="500" BarcodeHeight="500" WidthRequest="500" HeightRequest="500"
+            BarcodeFormat="QR_CODE" Barcode="jakis kod do testowania" BarcodeForeground="Black" BarcodeBackground="White"/>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>
