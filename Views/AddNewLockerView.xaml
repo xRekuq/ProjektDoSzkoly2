@@ -14,14 +14,20 @@
             <RowDefinition/>
             <RowDefinition/>
             <RowDefinition/>
+            <RowDefinition/>
         </Grid.RowDefinitions>
         
         <Label Text="Dodaj nową szafkę" Style="{StaticResource BigLabel}" 
                Grid.ColumnSpan="2" Grid.Row="0"/>
 
         <StackLayout Grid.Column="0" Grid.Row="1">
-            <Label Text="Numer"/>
+            <Label Text="Numer Szafki"/>
             <Entry Text="{Binding LockerNr, Mode=TwoWay}"/>
+        </StackLayout>
+
+        <StackLayout Grid.Column="0" Grid.Row="2">
+            <Label Text="Numer Regału"/>
+            <Entry Text="{Binding RegalNr, Mode=TwoWay}"/>
         </StackLayout>
 
         <StackLayout Grid.Column="1" Grid.Row="1">
@@ -29,7 +35,7 @@
             <Entry Text="{Binding Owner, Mode=TwoWay}"/>
         </StackLayout>
 
-        <StackLayout Grid.Column="0" Grid.Row="2">
+        <StackLayout Grid.Column="1" Grid.Row="2">
             <Label Text="Piętro"/>
             <Entry Text="{Binding Floor, Mode=TwoWay}"/>
         </StackLayout>

@@ -70,6 +70,7 @@ namespace SzafkiSzkolne.ViewModels
                 {
                     ID = locker.ID,
                     LockerNr = locker.LockerNr,
+                    RegalNr = locker.RegalNr,
                     Owner = locker.Owner,
                     Floor = locker.Floor,
                     isOccupied = locker.isOccupied

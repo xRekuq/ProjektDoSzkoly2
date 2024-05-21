@@ -51,11 +51,13 @@
                     <ColumnDefinition/>
                     <ColumnDefinition/>
                     <ColumnDefinition/>
+                    <ColumnDefinition/>
                 </Grid.ColumnDefinitions>
                 <Label Grid.Column="0" Text="Numer szafki"/>
-                <Label Grid.Column="1" Text="Właściciel"/>
-                <Label Grid.Column="2" Text="Piętro"/>
-                <Label Grid.Column="3" Text="Czy zajęta?"/>
+                <Label Grid.Column="1" Text="Numer Regału"/>
+                <Label Grid.Column="2" Text="Właściciel"/>
+                <Label Grid.Column="3" Text="Piętro"/>
+                <Label Grid.Column="4" Text="Czy zajęta?"/>
             </Grid>
         
         <CollectionView ItemsSource="{Binding Lockers}" Background="#1F1F1F"
@@ -68,11 +70,13 @@
                             <ColumnDefinition/>
                             <ColumnDefinition/>
                             <ColumnDefinition/>
+                            <ColumnDefinition/>
                             </Grid.ColumnDefinitions>
                             <Label Grid.Column="0" Text="{Binding LockerNr}"/>
-                            <Label Grid.Column="1" Text="{Binding Owner}"/>
-                            <Label Grid.Column="2" Text="{Binding Floor}"/>
-                            <Label Grid.Column="3" Text="{Binding isOccupied}"/>
+                            <Label Grid.Column="1" Text="{Binding RegalNr}"/>
+                            <Label Grid.Column="2" Text="{Binding Owner}"/>
+                            <Label Grid.Column="3" Text="{Binding Floor}"/>
+                            <Label Grid.Column="4" Text="{Binding isOccupied}"/>
                         </Grid>
                 </DataTemplate>
             </CollectionView.ItemTemplate>

@@ -22,6 +22,21 @@ namespace SzafkiSzkolne.ViewModels
                 }
             }
         }
+
+        private string _regalNr;
+        public string RegalNr
+        {
+            get => _regalNr;
+            set
+            {
+                if (_regalNr != value)
+                {
+                    _regalNr = value;
+                    OnPropertyChanged(nameof(RegalNr));
+                }
+            }
+        }
+
         private string _owner;
         public string Owner
         {
@@ -85,6 +100,7 @@ namespace SzafkiSzkolne.ViewModels
             var locker = new Locker()
             {
                 LockerNr = _lockerNr,
+                RegalNr = _regalNr,
                 Owner = _owner,
                 Floor = _floor,
                 isOccupied = _isOccupied
@@ -93,6 +109,7 @@ namespace SzafkiSzkolne.ViewModels
             _dbService.CreateLocker(locker);
 
             LockerNr = 0;
+            RegalNr = string.Empty;
             Owner = string.Empty;
             Floor = 0;
         }

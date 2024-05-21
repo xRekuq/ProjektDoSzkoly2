@@ -14,8 +14,8 @@ namespace SzafkiSzkolne.Models
 
         public LocalDbService()
         {
-            
-            /*"C:\\Users\\grzes\\AppData\\Local\\LocalDb.db"*/
+
+            /*"C:\Users\Dawid\Desktop\SzafkiSzkolne\Models\LocalDb.db"*/
             /*Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), DB_NAME)*/
             /*string desktopPath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
             string filePath = Path.Combine(desktopPath, "DatabasePath.txt");
