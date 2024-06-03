@@ -16,11 +16,11 @@ namespace SzafkiSzkolne.Models
         {
 
             /*"C:\Users\Dawid\Desktop\SzafkiSzkolne\Models\LocalDb.db"*/
-            /*Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), DB_NAME)*/
-            /*string desktopPath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
-            string filePath = Path.Combine(desktopPath, "DatabasePath.txt");
+/*Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), DB_NAME)*/
+/*string desktopPath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
+string filePath = Path.Combine(desktopPath, "DatabasePath.txt");
 
-            File.WriteAllText(filePath, AppDomain.CurrentDomain.BaseDirectory);*/
+File.WriteAllText(filePath, AppDomain.CurrentDomain.BaseDirectory);*/
 
             string basePath = AppDomain.CurrentDomain.BaseDirectory;
             string modelsPath = Path.Combine(basePath, "..", "..", "..", "..", "..", "Models");
@@ -33,6 +33,7 @@ namespace SzafkiSzkolne.Models
 
             _connection = new SQLiteAsyncConnection(dbPath);
             _connection.CreateTableAsync<Locker>();
+
         }
 
         public async Task<List<Locker>> GetAllLockers()

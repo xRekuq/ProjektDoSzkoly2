@@ -8,5 +8,10 @@ public partial class AddNewLockerView : ContentPage
 	{
 		InitializeComponent();
 		BindingContext = viewModel;
-	}
+        viewModel.AlertRequested += ViewModel_AlertRequested;
+    }
+    private async void ViewModel_AlertRequested(object sender, string e)
+    {
+        await DisplayAlert("Alert", e, "OK");
+    }
 }

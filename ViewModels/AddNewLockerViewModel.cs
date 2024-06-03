@@ -1,4 +1,5 @@
 ﻿using CommunityToolkit.Mvvm.Input;
+using CommunityToolkit.Mvvm.Messaging;
 using System.ComponentModel;
 using System.Windows.Input;
 using SzafkiSzkolne.Models;
@@ -63,8 +64,8 @@ namespace SzafkiSzkolne.ViewModels
                 }
             }
         }
-        private bool _isOccupied;
-        public bool IsOccupied
+        private string _isOccupied;
+        public string IsOccupied
         {
             get => _isOccupied;
             set
@@ -91,11 +92,11 @@ namespace SzafkiSzkolne.ViewModels
         {
             if (!string.IsNullOrWhiteSpace(_owner))
             {
-                _isOccupied = true;
+                _isOccupied = "Tak";
             }
             else
             {
-                _isOccupied = false;
+                _isOccupied = "Nie";
             }
             var locker = new Locker()
             {
@@ -107,6 +108,8 @@ namespace SzafkiSzkolne.ViewModels
             };
             
             _dbService.CreateLocker(locker);
+            
+            Alert($"Dodano szafkę numer: {LockerNr}.");
 
             LockerNr = 0;
             RegalNr = string.Empty;
@@ -116,7 +119,15 @@ namespace SzafkiSzkolne.ViewModels
 
         private async Task NavigateBack()
         {
-            await Shell.Current.GoToAsync("//ManageAllLockers");
+            WeakReferenceMessenger.Default.Send(new UpdateLockersMessage());
+            await Shell.Current.GoToAsync("..");
+        }
+
+        public event EventHandler<string> AlertRequested;
+
+        public void Alert(string message)
+        {
+            AlertRequested?.Invoke(this, message);
         }
 
         public event PropertyChangedEventHandler PropertyChanged;

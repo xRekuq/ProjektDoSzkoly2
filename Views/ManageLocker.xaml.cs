@@ -8,5 +8,5 @@ public partial class ManageLocker : ContentPage
 	{
 		InitializeComponent();
 		BindingContext = viewModel;
-	}
+    }
 }

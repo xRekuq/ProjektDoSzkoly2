@@ -46,6 +46,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = SzafkiSzkolne.Views.AddNew
 build_metadata.AdditionalFiles.TargetPath = Views\AddNewLockerView.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\AddNewLockerView.xaml
 
+[C:/Users/Dawid/Desktop/SzafkiSzkolne/Views/EditLockerView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = SzafkiSzkolne.Views.EditLockerView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\EditLockerView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\EditLockerView.xaml
+
 [C:/Users/Dawid/Desktop/SzafkiSzkolne/Views/ManageAllLockers.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = SzafkiSzkolne.Views.ManageAllLockers.xaml

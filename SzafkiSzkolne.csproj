@@ -72,6 +72,9 @@
 	  <MauiXaml Update="Views\AddNewLockerView.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
+	  <MauiXaml Update="Views\EditLockerView.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
 	  <MauiXaml Update="Views\ManageAllLockers.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>

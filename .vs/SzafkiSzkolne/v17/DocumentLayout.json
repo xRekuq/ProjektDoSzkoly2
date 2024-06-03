@@ -7,8 +7,52 @@
       "RelativeMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|solutionrelative:models\\localdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|c:\\users\\dawid\\desktop\\szafkiszkolne\\models\\updatelockersmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|solutionrelative:models\\updatelockersmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|c:\\users\\dawid\\desktop\\szafkiszkolne\\models\\locker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|solutionrelative:models\\locker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|c:\\users\\dawid\\desktop\\szafkiszkolne\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|c:\\users\\dawid\\desktop\\szafkiszkolne\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|c:\\users\\dawid\\desktop\\szafkiszkolne\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|c:\\users\\dawid\\desktop\\szafkiszkolne\\views\\testview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|solutionrelative:views\\testview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|c:\\users\\dawid\\desktop\\szafkiszkolne\\views\\managelocker.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|solutionrelative:views\\managelocker.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|c:\\users\\dawid\\desktop\\szafkiszkolne\\views\\managealllockers.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|solutionrelative:views\\managealllockers.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|c:\\users\\dawid\\desktop\\szafkiszkolne\\views\\editlockerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|solutionrelative:views\\editlockerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|c:\\users\\dawid\\desktop\\szafkiszkolne\\views\\addnewlockerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|solutionrelative:views\\addnewlockerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|c:\\users\\dawid\\desktop\\szafkiszkolne\\viewmodels\\addnewlockerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|solutionrelative:viewmodels\\addnewlockerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|c:\\users\\dawid\\desktop\\szafkiszkolne\\viewmodels\\editlockerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|solutionrelative:viewmodels\\editlockerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|c:\\users\\dawid\\desktop\\szafkiszkolne\\viewmodels\\managealllockersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,62 +63,38 @@
       "RelativeMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|solutionrelative:viewmodels\\managelockerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|c:\\users\\dawid\\desktop\\szafkiszkolne\\viewmodels\\addnewlockerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|solutionrelative:viewmodels\\addnewlockerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|c:\\users\\dawid\\desktop\\szafkiszkolne\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|c:\\users\\dawid\\desktop\\szafkiszkolne\\views\\addnewlockerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|solutionrelative:views\\addnewlockerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|c:\\users\\dawid\\desktop\\szafkiszkolne\\views\\managelocker.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|solutionrelative:views\\managelocker.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|c:\\users\\dawid\\desktop\\szafkiszkolne\\views\\addnewlockerview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|solutionrelative:views\\addnewlockerview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|c:\\users\\dawid\\desktop\\szafkiszkolne\\models\\locker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|solutionrelative:models\\locker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|c:\\users\\dawid\\desktop\\szafkiszkolne\\views\\testview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|solutionrelative:views\\testview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|c:\\users\\dawid\\desktop\\szafkiszkolne\\views\\editlockerview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|solutionrelative:views\\editlockerview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|c:\\users\\dawid\\desktop\\szafkiszkolne\\views\\managealllockers.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|solutionrelative:views\\managealllockers.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|c:\\users\\dawid\\desktop\\szafkiszkolne\\views\\managelocker.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|solutionrelative:views\\managelocker.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|c:\\users\\dawid\\desktop\\szafkiszkolne\\views\\managelocker.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|solutionrelative:views\\managelocker.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|c:\\users\\dawid\\desktop\\szafkiszkolne\\views\\testview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|solutionrelative:views\\testview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|c:\\users\\dawid\\desktop\\szafkiszkolne\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|c:\\users\\dawid\\desktop\\szafkiszkolne\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|solutionrelative:appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|c:\\users\\dawid\\desktop\\szafkiszkolne\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 171,
+      "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 246,
-          "SelectedChildIndex": 18,
+          "DockedWidth": 200,
+          "SelectedChildIndex": 20,
           "Children": [
             {
               "$type": "Bookmark",
@@ -102,145 +122,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Locker.cs",
-              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\Models\\Locker.cs",
-              "RelativeDocumentMoniker": "Models\\Locker.cs",
-              "ToolTip": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\Models\\Locker.cs",
-              "RelativeToolTip": "Models\\Locker.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T18:41:30.853Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ManageAllLockersViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\ViewModels\\ManageAllLockersViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\ManageAllLockersViewModel.cs",
-              "ToolTip": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\ViewModels\\ManageAllLockersViewModel.cs",
-              "RelativeToolTip": "ViewModels\\ManageAllLockersViewModel.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAgwEgAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T18:23:08.604Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AddNewLockerViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\ViewModels\\AddNewLockerViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\AddNewLockerViewModel.cs",
-              "ToolTip": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\ViewModels\\AddNewLockerViewModel.cs",
-              "RelativeToolTip": "ViewModels\\AddNewLockerViewModel.cs",
-              "ViewState": "AQIAAEAAAAAAAAAAAAAEwGUAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T19:44:00.497Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MauiProgram.cs",
-              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\MauiProgram.cs",
-              "RelativeDocumentMoniker": "MauiProgram.cs",
-              "ToolTip": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\MauiProgram.cs",
-              "RelativeToolTip": "MauiProgram.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T16:35:23.481Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TestView.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\Views\\TestView.xaml.cs",
-              "RelativeDocumentMoniker": "Views\\TestView.xaml.cs",
-              "ToolTip": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\Views\\TestView.xaml.cs",
-              "RelativeToolTip": "Views\\TestView.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T16:32:38.342Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 6,
               "Title": "TestView.xaml",
               "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\Views\\TestView.xaml",
               "RelativeDocumentMoniker": "Views\\TestView.xaml",
               "ToolTip": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\Views\\TestView.xaml",
               "RelativeToolTip": "Views\\TestView.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA2AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-14T16:32:12.988Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ManageLockerViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\ViewModels\\ManageLockerViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\ManageLockerViewModel.cs",
-              "ToolTip": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\ViewModels\\ManageLockerViewModel.cs",
-              "RelativeToolTip": "ViewModels\\ManageLockerViewModel.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T15:48:29.002Z",
+              "WhenOpened": "2024-05-31T21:39:55.315Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "ManageLocker.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\Views\\ManageLocker.xaml.cs",
-              "RelativeDocumentMoniker": "Views\\ManageLocker.xaml.cs",
-              "ToolTip": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\Views\\ManageLocker.xaml.cs",
-              "RelativeToolTip": "Views\\ManageLocker.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Title": "EditLockerViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\ViewModels\\EditLockerViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\EditLockerViewModel.cs",
+              "ToolTip": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\ViewModels\\EditLockerViewModel.cs",
+              "RelativeToolTip": "ViewModels\\EditLockerViewModel.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAYwI4AAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T18:17:00.09Z"
+              "WhenOpened": "2024-05-31T19:23:36.53Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ManageLocker.xaml",
-              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\Views\\ManageLocker.xaml",
-              "RelativeDocumentMoniker": "Views\\ManageLocker.xaml",
-              "ToolTip": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\Views\\ManageLocker.xaml",
-              "RelativeToolTip": "Views\\ManageLocker.xaml",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAACgAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-13T11:41:42.395Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AppShell.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\AppShell.xaml.cs",
-              "RelativeDocumentMoniker": "AppShell.xaml.cs",
-              "ToolTip": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\AppShell.xaml.cs",
-              "RelativeToolTip": "AppShell.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "DocumentIndex": 17,
+              "Title": "EditLockerView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\Views\\EditLockerView.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\EditLockerView.xaml.cs",
+              "ToolTip": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\Views\\EditLockerView.xaml.cs",
+              "RelativeToolTip": "Views\\EditLockerView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T11:25:08.673Z"
+              "WhenOpened": "2024-05-31T19:12:39.498Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "AppShell.xaml",
-              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\AppShell.xaml",
-              "RelativeDocumentMoniker": "AppShell.xaml",
-              "ToolTip": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\AppShell.xaml",
-              "RelativeToolTip": "AppShell.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAATAAAA",
+              "DocumentIndex": 9,
+              "Title": "EditLockerView.xaml",
+              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\Views\\EditLockerView.xaml",
+              "RelativeDocumentMoniker": "Views\\EditLockerView.xaml",
+              "ToolTip": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\Views\\EditLockerView.xaml",
+              "RelativeToolTip": "Views\\EditLockerView.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-13T11:24:08.767Z"
+              "WhenOpened": "2024-05-31T19:11:09.347Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
+              "Title": "UpdateLockersMessage.cs",
+              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\Models\\UpdateLockersMessage.cs",
+              "RelativeDocumentMoniker": "Models\\UpdateLockersMessage.cs",
+              "ToolTip": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\Models\\UpdateLockersMessage.cs",
+              "RelativeToolTip": "Models\\UpdateLockersMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T18:33:20.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddNewLockerView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\Views\\AddNewLockerView.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\AddNewLockerView.xaml.cs",
+              "ToolTip": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\Views\\AddNewLockerView.xaml.cs",
+              "RelativeToolTip": "Views\\AddNewLockerView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T18:27:42.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "ManageAllLockers.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\Views\\ManageAllLockers.xaml.cs",
               "RelativeDocumentMoniker": "Views\\ManageAllLockers.xaml.cs",
@@ -248,7 +208,99 @@
               "RelativeToolTip": "Views\\ManageAllLockers.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T11:16:30.469Z"
+              "WhenOpened": "2024-05-31T18:24:47.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T15:18:55.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-27T15:15:48.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddNewLockerView.xaml",
+              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\Views\\AddNewLockerView.xaml",
+              "RelativeDocumentMoniker": "Views\\AddNewLockerView.xaml",
+              "ToolTip": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\Views\\AddNewLockerView.xaml",
+              "RelativeToolTip": "Views\\AddNewLockerView.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-27T14:18:33.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ManageAllLockers.xaml",
+              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\Views\\ManageAllLockers.xaml",
+              "RelativeDocumentMoniker": "Views\\ManageAllLockers.xaml",
+              "ToolTip": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\Views\\ManageAllLockers.xaml",
+              "RelativeToolTip": "Views\\ManageAllLockers.xaml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABUAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-27T14:18:31.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-27T14:15:47.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\AppShell.xaml.cs",
+              "RelativeToolTip": "AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:15:35.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddNewLockerViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\ViewModels\\AddNewLockerViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\AddNewLockerViewModel.cs",
+              "ToolTip": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\ViewModels\\AddNewLockerViewModel.cs",
+              "RelativeToolTip": "ViewModels\\AddNewLockerViewModel.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAYwH0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:09:14.655Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -258,48 +310,87 @@
               "RelativeDocumentMoniker": "Models\\LocalDbService.cs",
               "ToolTip": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\Models\\LocalDbService.cs",
               "RelativeToolTip": "Models\\LocalDbService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABQAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T11:02:27.673Z",
+              "WhenOpened": "2024-05-27T14:09:08.39Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ManageAllLockers.xaml",
-              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\Views\\ManageAllLockers.xaml",
-              "RelativeDocumentMoniker": "Views\\ManageAllLockers.xaml",
-              "ToolTip": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\Views\\ManageAllLockers.xaml",
-              "RelativeToolTip": "Views\\ManageAllLockers.xaml",
-              "ViewState": "AQIAACUAAAAAAAAAAAAAAEsAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-13T11:01:49.404Z",
+              "DocumentIndex": 2,
+              "Title": "Locker.cs",
+              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\Models\\Locker.cs",
+              "RelativeDocumentMoniker": "Models\\Locker.cs",
+              "ToolTip": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\Models\\Locker.cs",
+              "RelativeToolTip": "Models\\Locker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:09:03.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ManageAllLockersViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\ViewModels\\ManageAllLockersViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ManageAllLockersViewModel.cs",
+              "ToolTip": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\ViewModels\\ManageAllLockersViewModel.cs",
+              "RelativeToolTip": "ViewModels\\ManageAllLockersViewModel.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAqwG4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:08:44.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ManageLockerViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\ViewModels\\ManageLockerViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ManageLockerViewModel.cs",
+              "ToolTip": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\ViewModels\\ManageLockerViewModel.cs",
+              "RelativeToolTip": "ViewModels\\ManageLockerViewModel.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:08:37.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ManageLocker.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\Views\\ManageLocker.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\ManageLocker.xaml.cs",
+              "ToolTip": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\Views\\ManageLocker.xaml.cs",
+              "RelativeToolTip": "Views\\ManageLocker.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:08:34.479Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "AddNewLockerView.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\Views\\AddNewLockerView.xaml.cs",
-              "RelativeDocumentMoniker": "Views\\AddNewLockerView.xaml.cs",
-              "ToolTip": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\Views\\AddNewLockerView.xaml.cs",
-              "RelativeToolTip": "Views\\AddNewLockerView.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T10:44:00.954Z",
+              "Title": "ManageLocker.xaml",
+              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\Views\\ManageLocker.xaml",
+              "RelativeDocumentMoniker": "Views\\ManageLocker.xaml",
+              "ToolTip": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\Views\\ManageLocker.xaml",
+              "RelativeToolTip": "Views\\ManageLocker.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-27T14:07:51.134Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AddNewLockerView.xaml",
-              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\Views\\AddNewLockerView.xaml",
-              "RelativeDocumentMoniker": "Views\\AddNewLockerView.xaml",
-              "ToolTip": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\Views\\AddNewLockerView.xaml",
-              "RelativeToolTip": "Views\\AddNewLockerView.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-13T10:43:59.069Z",
+              "DocumentIndex": 3,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:07:34.26Z",
               "EditorCaption": ""
             }
           ]

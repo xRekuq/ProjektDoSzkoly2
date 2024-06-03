@@ -10,7 +10,7 @@ namespace SzafkiSzkolne.Models
         public string RegalNr { get; set; }
         public string Owner { get; set; }
         public int Floor { get; set; }
-        public bool isOccupied { get; set; }
+        public string isOccupied { get; set; }
 
     }
 }

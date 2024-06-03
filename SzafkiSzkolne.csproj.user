@@ -14,6 +14,9 @@
     <MauiXaml Update="Views\AddNewLockerView.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
+    <MauiXaml Update="Views\EditLockerView.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
     <MauiXaml Update="Views\ManageAllLockers.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>

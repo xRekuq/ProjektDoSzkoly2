@@ -7,8 +7,12 @@ namespace SzafkiSzkolne
         public AppShell()
         {
             InitializeComponent();
-            Routing.RegisterRoute("//AddNewLockerView", typeof(AddNewLockerView));
-            Routing.RegisterRoute("//ManageAllLockers", typeof(ManageAllLockers));
+
+            // Routing
+            Routing.RegisterRoute("AddNewLockerView", typeof(AddNewLockerView));
+            Routing.RegisterRoute("ManageAllLockers", typeof(ManageAllLockers));
+            Routing.RegisterRoute("ManageLocker", typeof(ManageLocker));
+            Routing.RegisterRoute("EditLocker", typeof(EditLockerView));
         }
     }
 }

@@ -10,37 +10,31 @@
             <ColumnDefinition Width="0.68*"/>
         </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
-            <RowDefinition Height="0.2*"/>
-            <RowDefinition Height="0.08*"/>
-            <RowDefinition Height="0.24*"/>
-            <RowDefinition Height="0.24*"/>
-            <RowDefinition Height="0.24*"/>
+            <RowDefinition Height="0.22*"/>
+            <RowDefinition Height="0.12*"/>
+            <RowDefinition Height="0.33*"/>
+            <RowDefinition Height="0.33*"/>
         </Grid.RowDefinitions>
 
         <Label x:Name="LB_find" Text="Wyszukaj" Style="{StaticResource BigLabel}"
                Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="0"/>
-        <Entry x:Name="TB_find" HeightRequest="20"
-               Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="1"/>
+        <Entry x:Name="TB_find" HeightRequest="20" Margin="10"
+               Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="1"
+               Text="{Binding SearchQuery}"/>
 
-        <Button x:Name="BT_find" Text="Szukaj" Style="{StaticResource SmallButton}"
-                Grid.Column="0" Grid.Row="2"/>
+        <Button Text="Edytuj" Style="{StaticResource SmallButton}"
+                Grid.Column="0" Grid.Row="2" Command="{Binding EditCommand}"/>
 
-        <Button x:Name="BT_add" Text="Dodaj" Style="{StaticResource SmallButton}"
+        <Button Text="Dodaj" Style="{StaticResource SmallButton}"
                 Grid.Column="1" Grid.Row="2" Command="{Binding NavigateToAddLockerCommand}"/>
 
-        <Button x:Name="BT_all" Text="Wszystkie" Style="{StaticResource SmallButton}"
-                Grid.Column="0" Grid.Row="3"/>
+        <Button Text="Usuń" Style="{StaticResource SmallButton}"
+                Grid.Column="1" Grid.Row="3" Command="{Binding DeleteCommand}"/>
 
-        <Button x:Name="BT_update" Text="Aktualizuj" Style="{StaticResource SmallButton}"
-                Grid.Column="1" Grid.Row="3" Command="{Binding UpdateCommand}"/>
+        <Button Text="Zarządzaj" Style="{StaticResource SmallButton}"
+                Grid.Column="0" Grid.Row="3" Command="{Binding NavigateToLockerCommand}"/>
 
-        <Button x:Name="BT_delete" Text="Usuń" Style="{StaticResource SmallButton}"
-                Grid.Column="1" Grid.Row="4" Command="{Binding DeleteCommand}"/>
-
-        <Button x:Name="BT_back" Text="Cofnij" Style="{StaticResource SmallButton}"
-                Grid.Column="0" Grid.Row="4"/>
-
-        <Label x:Name="LB_result" Text="Wyniki" Style="{StaticResource BigLabel}"
+        <Label Text="Wyniki" Style="{StaticResource BigLabel}"
                Grid.Column="2"/>
 
 

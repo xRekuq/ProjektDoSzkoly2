@@ -29,265 +29,265 @@
     <AppXManifest Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-05-21T18:42:02.730</Modified>
+      <Modified>2024-05-31T21:36:03.910</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-05-21T18:42:02.654</Modified>
+      <Modified>2024-05-31T21:36:03.770</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SzafkiSzkolne.runtimeconfig.json">
       <PackagePath>SzafkiSzkolne.runtimeconfig.json</PackagePath>
-      <Modified>2024-05-15T11:57:19.604</Modified>
+      <Modified>2024-05-31T21:36:03.585</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SzafkiSzkolne.dll">
       <PackagePath>SzafkiSzkolne.dll</PackagePath>
-      <Modified>2024-05-21T18:42:02.428</Modified>
+      <Modified>2024-05-31T21:36:02.664</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>SzafkiSzkolne.exe</PackagePath>
-      <Modified>2024-05-21T18:42:02.431</Modified>
+      <Modified>2024-05-31T21:36:02.678</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
-      <Modified>2024-05-06T17:52:09.450</Modified>
+      <Modified>2024-05-27T14:06:32.234</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2024-05-06T17:52:25.312</Modified>
+      <Modified>2024-05-27T14:07:03.703</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2024-05-06T17:52:25.327</Modified>
+      <Modified>2024-05-27T14:07:03.727</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2024-05-06T17:52:25.348</Modified>
+      <Modified>2024-05-27T14:07:03.749</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2024-05-06T17:52:25.381</Modified>
+      <Modified>2024-05-27T14:07:03.786</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2024-05-06T17:52:25.512</Modified>
+      <Modified>2024-05-27T14:07:03.925</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
-      <Modified>2024-05-06T17:52:09.444</Modified>
+      <Modified>2024-05-27T14:06:32.147</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
-      <Modified>2024-05-06T17:52:09.445</Modified>
+      <Modified>2024-05-27T14:06:32.174</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2024-05-06T17:52:25.608</Modified>
+      <Modified>2024-05-27T14:07:05.003</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2024-05-06T17:52:26.118</Modified>
+      <Modified>2024-05-27T14:07:05.426</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2024-05-06T17:52:26.142</Modified>
+      <Modified>2024-05-27T14:07:05.450</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2024-05-06T17:52:26.164</Modified>
+      <Modified>2024-05-27T14:07:05.471</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2024-05-06T17:52:26.201</Modified>
+      <Modified>2024-05-27T14:07:05.505</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2024-05-06T17:52:26.340</Modified>
+      <Modified>2024-05-27T14:07:05.638</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2024-05-06T17:52:25.760</Modified>
+      <Modified>2024-05-27T14:07:05.105</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2024-05-06T17:52:25.765</Modified>
+      <Modified>2024-05-27T14:07:05.110</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2024-05-06T17:52:25.792</Modified>
+      <Modified>2024-05-27T14:07:05.131</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2024-05-06T17:52:25.770</Modified>
+      <Modified>2024-05-27T14:07:05.114</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2024-05-06T17:52:25.778</Modified>
+      <Modified>2024-05-27T14:07:05.119</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2024-05-06T17:52:25.721</Modified>
+      <Modified>2024-05-27T14:07:05.073</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2024-05-06T17:52:25.726</Modified>
+      <Modified>2024-05-27T14:07:05.078</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2024-05-06T17:52:25.754</Modified>
+      <Modified>2024-05-27T14:07:05.100</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2024-05-06T17:52:25.732</Modified>
+      <Modified>2024-05-27T14:07:05.083</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2024-05-06T17:52:25.738</Modified>
+      <Modified>2024-05-27T14:07:05.089</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2024-05-06T17:52:25.635</Modified>
+      <Modified>2024-05-27T14:07:05.014</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2024-05-06T17:52:25.644</Modified>
+      <Modified>2024-05-27T14:07:05.019</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2024-05-06T17:52:25.662</Modified>
+      <Modified>2024-05-27T14:07:05.024</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2024-05-06T17:52:25.669</Modified>
+      <Modified>2024-05-27T14:07:05.030</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2024-05-06T17:52:25.679</Modified>
+      <Modified>2024-05-27T14:07:05.038</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2024-05-06T17:52:25.683</Modified>
+      <Modified>2024-05-27T14:07:05.042</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2024-05-06T17:52:25.690</Modified>
+      <Modified>2024-05-27T14:07:05.047</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2024-05-06T17:52:25.714</Modified>
+      <Modified>2024-05-27T14:07:05.068</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2024-05-06T17:52:25.695</Modified>
+      <Modified>2024-05-27T14:07:05.051</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2024-05-06T17:52:25.701</Modified>
+      <Modified>2024-05-27T14:07:05.056</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2024-05-06T17:52:25.890</Modified>
+      <Modified>2024-05-27T14:07:05.211</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2024-05-06T17:52:25.900</Modified>
+      <Modified>2024-05-27T14:07:05.222</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2024-05-06T17:52:25.912</Modified>
+      <Modified>2024-05-27T14:07:05.234</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2024-05-06T17:52:25.929</Modified>
+      <Modified>2024-05-27T14:07:05.249</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2024-05-06T17:52:25.968</Modified>
+      <Modified>2024-05-27T14:07:05.282</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2024-05-06T17:52:25.838</Modified>
+      <Modified>2024-05-27T14:07:05.167</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2024-05-06T17:52:25.845</Modified>
+      <Modified>2024-05-27T14:07:05.175</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2024-05-06T17:52:25.852</Modified>
+      <Modified>2024-05-27T14:07:05.182</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2024-05-06T17:52:25.861</Modified>
+      <Modified>2024-05-27T14:07:05.188</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2024-05-06T17:52:25.880</Modified>
+      <Modified>2024-05-27T14:07:05.203</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2024-05-06T17:52:25.799</Modified>
+      <Modified>2024-05-27T14:07:05.136</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2024-05-06T17:52:25.805</Modified>
+      <Modified>2024-05-27T14:07:05.141</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2024-05-06T17:52:25.813</Modified>
+      <Modified>2024-05-27T14:07:05.146</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2024-05-06T17:52:25.820</Modified>
+      <Modified>2024-05-27T14:07:05.152</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2024-05-06T17:52:25.831</Modified>
+      <Modified>2024-05-27T14:07:05.161</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2024-05-06T17:52:25.980</Modified>
+      <Modified>2024-05-27T14:07:05.292</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2024-05-06T17:52:25.993</Modified>
+      <Modified>2024-05-27T14:07:05.304</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2024-05-06T17:52:26.008</Modified>
+      <Modified>2024-05-27T14:07:05.320</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2024-05-06T17:52:26.032</Modified>
+      <Modified>2024-05-27T14:07:05.346</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2024-05-06T17:52:26.101</Modified>
+      <Modified>2024-05-27T14:07:05.410</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2024-05-06T17:52:25.610</Modified>
+      <Modified>2024-05-27T14:07:05.005</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2024-05-06T17:52:25.630</Modified>
+      <Modified>2024-05-27T14:07:05.019</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2024-05-06T17:52:25.659</Modified>
+      <Modified>2024-05-27T14:07:05.033</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2024-05-06T17:52:25.683</Modified>
+      <Modified>2024-05-27T14:07:05.052</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2024-05-06T17:52:25.768</Modified>
+      <Modified>2024-05-27T14:07:05.125</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\Desktop\SzafkiSzkolne\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SzafkiSzkolne.deps.json">
       <PackagePath>SzafkiSzkolne.deps.json</PackagePath>
-      <Modified>2024-05-15T11:57:19.511</Modified>
+      <Modified>2024-05-31T21:36:03.496</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dawid\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>

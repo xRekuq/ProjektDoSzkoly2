@@ -6,22 +6,10 @@
     xmlns:local="clr-namespace:SzafkiSzkolne"
     xmlns:views="clr-namespace:SzafkiSzkolne.Views"
     Shell.FlyoutBehavior="Disabled"
-    Title="SzafkiSzkolne">
+    Title="Szafki szkolne">
 
-    <TabBar>
+    <ShellContent
+    ContentTemplate="{DataTemplate views:ManageAllLockers}"
+    Route="ManageAllLockers"/>
 
-        <ShellContent
-        Title="Wszystkie szafki"
-        ContentTemplate="{DataTemplate views:ManageAllLockers}"
-        Route="//ManageAllLockers"/>
-
-        <ShellContent
-        Title="Zarządzaj szafką"
-        ContentTemplate="{DataTemplate views:ManageLocker}"/>
-
-        <ShellContent
-        Title="Test"
-        ContentTemplate="{DataTemplate views:TestView}"/>
-
-    </TabBar>
 </Shell>

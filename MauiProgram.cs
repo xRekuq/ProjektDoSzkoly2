@@ -25,7 +25,9 @@ namespace SzafkiSzkolne
                 .AddScoped<AddNewLockerView>()
                 .AddTransient<AddNewLockerViewModel>()
                 .AddScoped<ManageLocker>()
-                .AddTransient<ManageLockerViewModel>();
+                .AddTransient<ManageLockerViewModel>()
+                .AddScoped<EditLockerView>()
+                .AddTransient<EditLockerViewModel>();
 
             return builder.Build();
         }

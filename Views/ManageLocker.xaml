@@ -5,37 +5,43 @@
              x:Class="SzafkiSzkolne.Views.ManageLocker">
 
         <Grid>
-            <Grid.ColumnDefinitions>
-                <ColumnDefinition Width="240"/>
-                <ColumnDefinition Width="*"/>
-            </Grid.ColumnDefinitions>
-            <Grid.RowDefinitions>
-                <RowDefinition Height="140"/>
-                <RowDefinition Height="140"/>
-                <RowDefinition Height="140"/>
-            </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.2*"/>
+            <ColumnDefinition Width="0.8*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.25*"/>
+            <RowDefinition Height="0.25*"/>
+            <RowDefinition Height="0.25*"/>
+            <RowDefinition Height="0.25*"/>
+        </Grid.RowDefinitions>
 
-            <Label Text="Zdjecie" 
+        <Label Text="{Binding Locker.LockerNr, StringFormat='Numer szafki to: {0}'}" 
                Grid.Column="0" Grid.Row="0" VerticalTextAlignment="Center" HorizontalTextAlignment="Center"/>
+        <Label Text="{Binding Locker.RegalNr, StringFormat='Numer regału to: {0}'}" 
+               Grid.Column="0" Grid.Row="1" VerticalTextAlignment="Center" HorizontalTextAlignment="Center"/>
+        <Label Text="{Binding Locker.Floor, StringFormat='Piętro: {0}'}" 
+               Grid.Column="0" Grid.Row="2" VerticalTextAlignment="Center" HorizontalTextAlignment="Center"/>
+        <Label Text="{Binding Locker.Owner, StringFormat='Właściciel: {0}'}" 
+               Grid.Column="0" Grid.Row="3" VerticalTextAlignment="Center" HorizontalTextAlignment="Center"/>
 
+        <VerticalStackLayout Grid.Column="1" Grid.RowSpan="4">
             <Label Text="Szafka wolna!"
-               Grid.Column="1" Grid.Row="0"
-               Style="{StaticResource BigLabel}"
-               TextColor="LightGreen"/>
+                Style="{StaticResource BigLabel}"
+                TextColor="LightGreen"/>
 
-            <Button Text="Generuj kod QR"
-                Grid.Column="0" Grid.Row="1"
-                Style="{StaticResource SmallButton}"
-                Command="{Binding GenerateQrCodeCommand}"/>
-
-            <Button Text="Drukuj kod QR"
-                Grid.Column="0" Grid.Row="2"
-                Style="{StaticResource SmallButton}"/>
-
-        <cv:BarcodeImage BarcodeMargin="5" WidthRequest="280" HeightRequest="280" BarcodeHeight="280" BarcodeWidth="280"
+            <cv:BarcodeImage BarcodeMargin="5" WidthRequest="480" HeightRequest="480" BarcodeHeight="480" BarcodeWidth="480"
                 BarcodeForeground="White" BarcodeBackground="#1F1F1F"
-                BarcodeFormat="QR_CODE" Barcode="{Binding QrMessage}"
-                Grid.Column="1" Grid.Row="1" Grid.RowSpan="2"/>
+                BarcodeFormat="QR_CODE" Barcode="{Binding QrMessage}"/>
 
+            <HorizontalStackLayout Grid.Column="1" Grid.ColumnSpan="2" HorizontalOptions="Center">
+                <Button Text="Cofnij" Margin="5"
+                    Style="{StaticResource SmallButton}"
+                    Command="{Binding NavigateBackCommand}"/>
+
+                <Button Text="Drukuj kod QR" Margin="5"
+                    Style="{StaticResource SmallButton}"/>
+            </HorizontalStackLayout>
+        </VerticalStackLayout>
     </Grid>
 </ContentPage>

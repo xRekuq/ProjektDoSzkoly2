@@ -1,18 +1,11 @@
-﻿using System.IO;
-using System.Collections.Generic;
-using System.ComponentModel;
-using ZXing.Net.Maui;
-using Microsoft.Maui.Controls;
-using Microsoft.Maui.Graphics;
-using Microsoft.Maui.ApplicationModel;
-using ZXing.QrCode;
-using ZXing;
+﻿using System.ComponentModel;
 using System.Windows.Input;
 using CommunityToolkit.Mvvm.Input;
+using SzafkiSzkolne.Models;
 
 namespace SzafkiSzkolne.ViewModels
 {
-    public class ManageLockerViewModel : INotifyPropertyChanged
+    public class ManageLockerViewModel : IQueryAttributable, INotifyPropertyChanged
     {
         private string _qrMessage;
         public string QrMessage
@@ -27,18 +20,35 @@ namespace SzafkiSzkolne.ViewModels
                 }
             }
         }
-        public ICommand GenerateQrCodeCommand { get; private set; }
+
+        private Locker _locker;
+        public Locker Locker
+        {
+            get => _locker;
+            set
+            {
+                _locker = value;
+                OnPropertyChanged(nameof(Locker));
+                QrMessage = $"Numer szafki to {_locker.LockerNr}";
+            }
+        }
+        public ICommand NavigateBackCommand { get; private set; }
         public ManageLockerViewModel()
         {
-            GenerateQrCodeCommand = new AsyncRelayCommand(GenerateQrCode);
+            NavigateBackCommand = new AsyncRelayCommand(NavigateBack);
         }
 
-        private async Task GenerateQrCode()
+        private async Task NavigateBack()
         {
-            QrMessage = "Numer szafki to 2";
+            await Shell.Current.GoToAsync("..");
         }
-
-
+        public void ApplyQueryAttributes(IDictionary<string, object> query)
+        {
+            if (query.ContainsKey("Locker"))
+            {
+                Locker = query["Locker"] as Locker;
+            }
+        }
         public event PropertyChangedEventHandler PropertyChanged;
 
         protected virtual void OnPropertyChanged(string propertyName)
