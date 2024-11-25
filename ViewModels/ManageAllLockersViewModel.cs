@@ -142,7 +142,8 @@ namespace SzafkiSzkolne.ViewModels
                     RegalNr = locker.RegalNr,
                     Owner = locker.Owner,
                     Floor = locker.Floor,
-                    isOccupied = locker.isOccupied
+                    isOccupied = locker.isOccupied,
+                    isOccupiedText = locker.isOccupiedText
                     // Dodaj inne właściwości, takie jak ID, Owner, Floor, isOccupied, w zależności od twoich potrzeb
                 };
 

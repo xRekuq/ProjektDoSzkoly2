@@ -65,8 +65,8 @@ namespace SzafkiSzkolne.ViewModels
                 }
             }
         }
-        private string _isOccupied;
-        public string IsOccupied
+        private bool _isOccupied;
+        public bool IsOccupied
         {
             get => _isOccupied;
             set
@@ -101,11 +101,11 @@ namespace SzafkiSzkolne.ViewModels
         {
             if (!string.IsNullOrWhiteSpace(_owner))
             {
-                _isOccupied = "Tak";
+                _isOccupied = true;
             }
             else
             {
-                _isOccupied = "Nie";
+                _isOccupied = false;
             }
 
             Locker.LockerNr = _lockerNr;

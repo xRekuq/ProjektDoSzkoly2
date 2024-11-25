@@ -1,4 +1,6 @@
 ﻿using SQLite;
+using System.ComponentModel;
+using System.Reflection.Metadata;
 
 namespace SzafkiSzkolne.Models
 {
@@ -10,7 +12,16 @@ namespace SzafkiSzkolne.Models
         public string RegalNr { get; set; }
         public string Owner { get; set; }
         public int Floor { get; set; }
-        public string isOccupied { get; set; }
+        public bool isOccupied { get; set; }
 
+        public string isOccupiedText
+        {
+            get => isOccupied ? "Tak" : "Nie";
+            set
+            {
+                if (value == "Tak") isOccupied = true;
+                else if (value == "Nie") isOccupied = false;
+            }
+        }
     }
 }

@@ -70,7 +70,7 @@
                             <Label Grid.Column="1" Text="{Binding RegalNr}"/>
                             <Label Grid.Column="2" Text="{Binding Owner}"/>
                             <Label Grid.Column="3" Text="{Binding Floor}"/>
-                            <Label Grid.Column="4" Text="{Binding isOccupied}"/>
+                            <Label Grid.Column="4" Text="{Binding isOccupiedText}"/>
                         </Grid>
                 </DataTemplate>
             </CollectionView.ItemTemplate>

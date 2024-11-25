@@ -26,9 +26,9 @@
                Grid.Column="0" Grid.Row="3" VerticalTextAlignment="Center" HorizontalTextAlignment="Center"/>
 
         <VerticalStackLayout Grid.Column="1" Grid.RowSpan="4">
-            <Label Text="Szafka wolna!"
-                Style="{StaticResource BigLabel}"
-                TextColor="LightGreen"/>
+            <Label Text="{Binding IsOccupiedText}"
+                   TextColor="{Binding OccupiedColor}"
+                   Style="{StaticResource BigLabel}"/>
 
             <cv:BarcodeImage BarcodeMargin="5" WidthRequest="480" HeightRequest="480" BarcodeHeight="480" BarcodeWidth="480"
                 BarcodeForeground="White" BarcodeBackground="#1F1F1F"

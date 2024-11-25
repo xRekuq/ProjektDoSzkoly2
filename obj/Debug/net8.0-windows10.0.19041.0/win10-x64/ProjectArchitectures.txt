@@ -1,1 +1,1 @@
-C:\Users\Dawid\Desktop\SzafkiSzkolne\SzafkiSzkolne.csproj;x64
+C:\Users\grzes\Source\Repos\ProjektDoSzkoly2\SzafkiSzkolne.csproj;x64

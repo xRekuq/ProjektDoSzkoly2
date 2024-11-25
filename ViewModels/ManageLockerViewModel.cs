@@ -29,9 +29,15 @@ namespace SzafkiSzkolne.ViewModels
             {
                 _locker = value;
                 OnPropertyChanged(nameof(Locker));
+                OnPropertyChanged(nameof(IsOccupiedText));
+                OnPropertyChanged(nameof(OccupiedColor));
                 QrMessage = $"Numer szafki to {_locker.LockerNr}";
             }
         }
+
+        public string IsOccupiedText => Locker?.isOccupied == true ? "Szafka zajęta!" : "Szafka wolna!";
+        public string OccupiedColor => Locker?.isOccupied == true ? "Red" : "LightGreen";
+
         public ICommand NavigateBackCommand { get; private set; }
         public ManageLockerViewModel()
         {
@@ -49,6 +55,7 @@ namespace SzafkiSzkolne.ViewModels
                 Locker = query["Locker"] as Locker;
             }
         }
+
         public event PropertyChangedEventHandler PropertyChanged;
 
         protected virtual void OnPropertyChanged(string propertyName)

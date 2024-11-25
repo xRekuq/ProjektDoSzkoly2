@@ -39446,24 +39446,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Dawid\\.nuget\\packages\\": {},
+    "C:\\Users\\grzes\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\SzafkiSzkolne.csproj",
+      "projectUniqueName": "C:\\Users\\grzes\\Source\\Repos\\ProjektDoSzkoly2\\SzafkiSzkolne.csproj",
       "projectName": "SzafkiSzkolne",
-      "projectPath": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\SzafkiSzkolne.csproj",
-      "packagesPath": "C:\\Users\\Dawid\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dawid\\Desktop\\SzafkiSzkolne\\obj\\",
+      "projectPath": "C:\\Users\\grzes\\Source\\Repos\\ProjektDoSzkoly2\\SzafkiSzkolne.csproj",
+      "packagesPath": "C:\\Users\\grzes\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\grzes\\Source\\Repos\\ProjektDoSzkoly2\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Dawid\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\grzes\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
